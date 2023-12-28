@@ -2,3 +2,5 @@ https://blog.stephane-robert.info/docs/pipeline-cicd/github/introduction/
 
 https://docs.github.com/fr/actions/quickstart
 
+https://github.com/nektos/act?tab=readme-ov-file
+
